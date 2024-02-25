@@ -12,6 +12,7 @@
 2. Fork the bot template
 3. Add all of the needed things, token, guildids, playfabids, etc.
 4. Change the bot however you want.
+5. In your text editor, go into the terminal, and type in, "npm install discord.js" and "npm install playfab-sdk, This will import all of the packages needed for the bot. you can add other packages as you go on.
 # Running and configuring the bot
 In VS Code or any text editor, go to the terminal, and type in, "node deploy-commands.js" This will update any guild commands you have changed.
 Now, if you don't already have a bot hosting service, just host it off of your computer, its free, and its easy. Just type in, "node index.js" It should pop up with "ready! Logged in as {bot username}. 
