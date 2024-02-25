@@ -1,0 +1,21 @@
+{
+  "name": "PlayFab-API-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "nvm": "^0.0.4",
+    "playfab-sdk": "^2.147.240119"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
