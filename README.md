@@ -1,4 +1,5 @@
 # PlayFab-Discord-Bot
+This is a Discord bot made for PlayFab API.
 # Instructions
 # Making the bot
 1. Go to the discord dev portal
